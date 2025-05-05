@@ -22,4 +22,4 @@
 
 - Or from the terminal:
 
-         $ python setup.py install
+         $ python QRCode.py install
