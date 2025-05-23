@@ -3,3 +3,6 @@ pypng
 requests
 beautifulsoup4
 python-dotenv
+yt-dlp
+qrcode
+pillow
